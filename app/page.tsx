@@ -223,10 +223,9 @@ export default function Home() {
                 <ul className="grid gap-6">
                   <li>
                     <div className="grid gap-1">
-                      <h3 className="text-xl font-bold">1. Camera-Based Side Mirrors</h3>
+                      <h3 className="text-xl font-bold">1. Integrated Camera Side Mirrors</h3>
                       <p className="text-muted-foreground">
-                        Replacing traditional side mirrors with cameras reduces drag and blind spots, while displaying
-                        the feed directly on your windshield for improved visibility.
+                        Integrating cameras with traditional side mirrors enhances visibility by reducing blind spots and displaying the feed directly on your windshield for improved safety.
                       </p>
                     </div>
                   </li>
